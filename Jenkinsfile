@@ -1,7 +1,7 @@
 pipeline {
 agent any
 
-```
+
 environment {
     IMAGE_NAME = "rakeshs53350/devops-capstone-app"
 }
@@ -39,6 +39,6 @@ stages {
         }
     }
 }
-```
+
 
 }
